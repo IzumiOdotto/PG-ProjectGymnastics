@@ -4,6 +4,7 @@
 # @Author   : Samuel HONG
 # @Description : insert elements to sql--learn how to use sql
 # @Version  :
+
 import os
 import sqlite3
 
