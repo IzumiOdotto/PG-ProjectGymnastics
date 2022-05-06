@@ -8,5 +8,19 @@
       <jdbc-url>jdbc:sqlite:E:\1_Programming\Python\PG-ProjectGymnastics\database\py-sqlite-inster-tips.db</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="py_sqlite3_bb_attempt1" uuid="e905ab1c-4150-46aa-8af4-071db9d87567">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/database/py_sqlite3_bb_attempt1.db</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="attempt_null_test" uuid="c49f31c6-47f5-4264-94ac-225912a04b53">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/database/attempt_null_test</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
